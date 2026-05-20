@@ -4,8 +4,8 @@ I'm Francisco, a Senior Software Engineer working with Backend Technologies such
 
 Currently working at Avenue Securities.
 
-Here is my profile at boot.dev with the current things I'm learning about:
-<p align="left" href="https://www.boot.dev/u/franciscorodrigues">
+Here is my profile at <a href="https://www.boot.dev/u/franciscorodrigues" target="_blank" rel="noopener noreferrer">boot.dev</a> with the current things I'm learning about:
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/7516868d-3614-4984-8c49-e7107fd8e0a6/thumbnail" >
 </p>
 <!--
