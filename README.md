@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Francisco, a Senior Software Engineer working with Backend Technologies such as .NET, GoLang and Typescript.
+
+Currently working at Avenue Securities.
+
+Here is my profile at boot.dev with the current things I'mn learning about:
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/7516868d-3614-4984-8c49-e7107fd8e0a6/thumbnail" >
+</p>
 <!--
 **rodriguesfrancisco/rodriguesfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
